@@ -7,7 +7,7 @@ An adventure in making adventure games.
 Refer to the instructions on Canvas for more information.
 
 """
-__author__ = "Ben Testani"
+__author__ = ""
 __version__ = 2
 
 class World:
